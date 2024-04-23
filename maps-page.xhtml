@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <link rel="stylesheet" type="text/css" href="gsws-final-styling.css" />
+    </head>
+    <body>
+        <h1>Tracking Women's Health in the News</h1>
+        <div class="nav-bar">
+            <ul>
+                <li><a class="navbar" href="index.xhtml">Home</a></li>
+                <li><a class="navbar" href="about.xhtml">Methodology</a></li>
+                <li><a class="navbar" href="maps-page.xhtml">Visualization</a></li>
+                <li><a class="navbar" href="sources.xhtml">Articles</a></li>
+            </ul>
+        </div>
+        <div class="images">
+            <!--            NYT map: -->
+            <ul class="buttons">
+                
+                <li>
+                    <button class="button" onclick="showImg('chi')">Chicago Tribune Articles</button>
+                    <img id="chi" src="chicagoTribune-map.png" alt="NYT Articls" style="display:none;"/></li>
+                
+                <li><button class="button" onclick="showImg('nyt-image')">New York Times
+                        Articles</button>
+                    <img id="nyt-image" src="nyt-map.png" alt="NYT Articls" style="display: none;"
+                     /></li>
+
+                <li><button class="button" onclick="showImg('washPost')">Washington Post Articles</button>
+                    <img id="washPost" src="washingtonPost-map.png" alt="NYT Articls"
+                        style="display:none;" />
+                </li>
+
+                <li>
+                    <button class="button" onclick="showImg('all')">All Locations</button>
+                    <img id="all" src="all-map.png" alt="NYT Articls" style="display:none;"/></li>
+            </ul>
+            <script>
+                function showImg(id) {
+                    var x = document.getElementById(id);
+                    if (x.style.display === "none") {
+                        x.style.display = "block";
+                    } else {
+                        x.style.display = "none";
+                    }
+                }</script>
+
+        </div>
+    </body>
+</html>

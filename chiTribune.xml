@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database type="chicago-tribune">
+
+    <article><id>64</id>,<location place="South Holland">South Holland</location>,<key type="women"
+            >women</key>,<lat>41.60603693</lat>,<long>-87.61051625</long>,<date>4-21-2024</date>,<author-s><fName>Jesse</fName><lName>
+                Wright</lName></author-s>,<title>Women’s health summit in South Holland seeks to address resources</title>,<url>https://www.chicagotribune.com/2024/04/21/womens-health-summit-south-suburban-college/</url></article>
+    <article><id>65</id>,<location place="Cook County">Cook County</location>, IL,<key type="women"
+            >women</key>,<lat>41.92216074</lat>,<long>-87.67867067</long>,<date>4-17-2024</date>,<author-s><fName>Lisa</fName><lName>
+                Schencker</lName></author-s>,<title>Another 26 women sue Endeavor Health and gynecologist Fabio Ortega, convicted of sexual abuse</title><url>https://www.chicagotribune.com/2024/04/17/fabio-ortega-endeavor-lawsuits/
+        </url></article>
+    <article><id>66</id>,<location place="DC">DC</location>,<key type="pregnancy">pregnancy</key>
+        <key type="abortion"
+            >abortion</key>,<lat>38.90884821</lat>,<long>-77.03566511</long>,<date>4-15-2024</date>,<author-s><fName>Claire</fName><lName>
+                Savage</lName></author-s>,<title>New rules for Pregnant Workers Fairness Act include divisive accommodations for abortion</title><url>https://www.chicagotribune.com/2024/04/15/new-rules-for-pregnant-workers-fairness-act-include-divisive-accommodations-for-abortion/
+        </url></article>
+    <article><id>67</id>,<location place="Chicago">Chicago</location>,<key type="maternal-death"
+            >maternal-death</key>,<lat>41.92216074</lat>,<long>-87.67867067</long>,<date>4-15-2024</date>,<author-s><fName>Francine</fName><lName>
+                Knowles</lName></author-s>,<title>Column: South suburban doctors propose solutions to combat high Black maternal death rates</title><url>https://www.chicagotribune.com/2024/04/15/column-south-suburban-doctors-propose-solutions-to-combat-high-black-maternal-death-rates/
+        </url></article>
+    <article><id>68</id>,<location place="DC">DC</location>,<key type="abortion"
+            >abortion</key>,<lat>38.90884821</lat>,<long>-77.03566511</long>,<date>4-10-2024</date>,<author-s><fName></fName><lName>
+                Associated Press</lName></author-s>,<title>Which states could have abortion on the ballot in 2024?</title><url>https://www.chicagotribune.com/2024/04/10/abortion-ballot-questions/
+        </url></article>
+    <article><id>69</id>,<location place="Arizona">Arizona</location>,<key type="abortion"
+            >abortion</key>,<lat>33.44656629</lat>,<long>-112.0589464</long>,<date>4-9-2024</date>,<author-s><fName>Jacques</fName><lName>
+                Billeaud</lName></author-s>,<title>Arizona can enforce an 1864 law criminalizing nearly all abortions, court says</title><url>https://www.chicagotribune.com/2024/04/09/an-arizona-court-ruling-makes-nearly-all-abortions-illegal-in-a-presidential-battleground-state/
+        </url></article>
+    <article><id>70</id>,<location place="UIC">UIC</location>,<key type="period"
+            >period</key>,<lat>41.86893554</lat>,<long>-87.64651739</long>,<date>4-5-2024</date>,<author-s><fName>Darcel</fName><lName>
+                Rockett</lName></author-s>,<title>Menstrual cycles can affect day-to-day suicide risk, UIC study finds</title><url>https://www.chicagotribune.com/2024/04/05/menstrual-cycles-can-affect-day-to-day-suicide-risk-uic-study-finds/
+        </url></article>
+    <article><id>71</id>,<location place="Cook County">Cook County</location>,<key
+            type="gynecologist"
+            >gynecologist</key>,<lat>41.92216074</lat>,<long>-87.67867067</long>,<date>4-1-2024</date>,<author-s><fName>Lisa</fName><lName>
+                Schencker</lName></author-s>,<title>More patients sue former Endeavor Health gynecologist Fabio Ortega, alleging sexual assault</title><url>https://www.chicagotribune.com/2024/04/01/patients-sue-endeavor-health-fabio-ortega/
+        </url></article>
+    <article><id>72</id>,<location place="Cook County">Cook County</location>,<key
+            type="gynecologist"
+            >gynecologist</key>,<lat>41.92216074</lat>,<long>-87.67867067</long>,<date>3-26-2024</date>,<author-s><fName>Emily</fName><lName>
+                Hoerner</lName></author-s>,<title>New lawsuit alleges abuse by former Endeavor Health gynecologist Fabio Ortega</title><url>https://www.chicagotribune.com/2024/03/26/lawsuit-alleges-abuse-fabio-ortega/
+        </url></article>
+    <article><id>73</id>,<location place="Illinois">Illinois</location>,<key type="ivf"
+            >ivf</key>,<lat>39.78298352</lat>,<long>-89.64200598</long>,<date>3-25-2024</date>,<author-s><fName>Angie</fName><lName>
+                Leventis
+                Lourgos</lName></author-s>,<title>Illinois poised to become a haven for out-of-state IVF patients amid conservative backlash</title><url>https://www.chicagotribune.com/2024/03/24/illinois-poised-to-become-a-haven-for-out-of-state-ivf-patients-amid-conservative-backlash/
+        </url></article>
+    <article><id>74</id>,<location place="UIC">UIC</location>,<key type="breast-cancer"
+            >breast-cancer</key>,<lat>41.86893554</lat>,<long>-87.64651739</long>,<date>4-6-2024</date>,<author-s><fName>Darcel</fName><lName>
+                Rockett</lName></author-s>,<title>Breast cancer test may make bad chemotherapy recommendations for Black patients, UIC study shows</title><url>https://www.chicagotribune.com/2024/03/22/breast-cancer-test-black-women-chemotherapy-uic/
+        </url></article>
+    <article><id>75</id>,<location place="Illinois">Illinois</location>,<key type="abortion"
+            >abortion</key>,<lat>39.78298352</lat>,<long>-89.64200598</long>,<date>3-9-2024</date>,<author-s><fName>Angie</fName><lName>
+                Leventis
+                Lourgos</lName></author-s>,<title>Illinois abortion providers praise Walgreens, CVS plans to carry mifepristone</title><url>https://www.chicagotribune.com/2024/03/09/illinois-abortion-providers-praise-walgreens-cvs-plans-to-carry-mifepristone/
+        </url></article>
+    <article><id>76</id>,<location place="Alabama">Alabama</location>,<key type="ivf"
+            >ivf</key>,<lat>32.37411131</lat>,<long>-86.29965677</long>,<date>3-5-2024</date>,<author-s><fName></fName><lName>
+                Associated Press</lName></author-s>,<title>Alabama lawmakers advance legislation to protect IVF providers, with final approval still ahead</title><url>https://www.chicagotribune.com/2024/03/05/alabama-lawmakers-advance-legislation-to-protect-ivf-providers-with-final-approval-still-ahead/
+        </url></article>
+    <article><id>77</id>,<location place="DC">DC</location>,<key type="birth-control"
+            >birth-control</key>,<lat>38.90884821</lat>,<long>-77.03566511</long>,<date>3-4-2024</date>,<author-s><fName></fName><lName>
+                Associated Press</lName></author-s>,<title>First over-the-counter birth control pill in US begins shipping to stores</title><url>https://www.chicagotribune.com/2024/03/04/first-over-the-counter-birth-control-pill-in-us-begins-shipping-to-stores/
+        </url></article>
+    <article><id>78</id>,<location place="Alabama">Alabama</location>,<key type="ivf"
+            >ivf</key>,<lat>32.37411131</lat>,<long>-86.29965677</long>,<date>2-23-2024</date>,<author-s><fName></fName><lName>
+                New York Times News Service Syndicate</lName></author-s>,<title>For women undergoing IVF in Alabama, what now?</title><url>https://www.chicagotribune.com/2024/02/23/alabama-ivf-whats-next/
+        </url></article>
+    <article><id>79</id>,<location place="Alabama">Alabama</location>,<key type="ivf"
+            >ivf</key>,<lat>32.37411131</lat>,<long>-86.29965677</long>,<date>2-21-2024</date>,<author-s><fName></fName><lName>
+                Associated Press</lName></author-s>,<title>Alabama hospital puts pause on IVF in wake of ruling saying frozen embryos are children</title><url>https://www.chicagotribune.com/2024/02/21/alabama-hospital-puts-pause-on-ivf-in-wake-of-ruling-saying-frozen-embryos-are-children/
+        </url></article>
+    <article><id>80</id>,<location place="Mayo Clinic">Mayo Clinic</location>,<key
+            type="gynecologist"
+            >gynecologist</key>,<lat>44.02292522</lat>,<long>-92.46673338</long>,<date>2-20-2024</date>,<author-s><fName></fName><lName>
+                Tribune News Service</lName></author-s>,<title>Mayo Clinic Minute: Health disparities in gynecologic cancers</title><url>https://www.chicagotribune.com/2024/02/20/mayo-clinic-minute-health-disparities-in-gynecologic-cancers/
+        </url></article>
+    <article><id>81</id>,<location place="Chicago">Chicago</location>,<key type="women"
+            >women</key>,<lat>41.92216074</lat>,<long>-87.67867067</long>,<date>2-16-2024</date>,<author-s><fName>Darcel</fName><lName>
+                Rockett</lName></author-s>,<title>SheRo Program from social services agency UCAN Chicago helps heal women most at risk for violence</title><url>https://www.chicagotribune.com/2024/02/16/ucan-shero-program-for-women/
+        </url></article>
+    <article><id>82</id>,<location place="Stanford">Stanford</location>,<key type="women"
+        >women</key>,<lat>37.4281925</lat>,<long>-122.1688628</long>,<date>2-1-2024</date>,<author-s><fName></fName><lName> Associated
+            Press</lName></author-s>,<title>Lupus and other autoimmune diseases strike far more women than men. Now there’s a clue why</title><url>https://www.chicagotribune.com/2024/02/01/lupus-and-other-autoimmune-diseases-strike-far-more-women-than-men-now-theres-a-clue-why/
+        </url></article>
+    <article><id>83</id>,<location place="Mayo Clinic">Mayo Clinic</location>,<key
+            type="cervical-cancer"
+            >cervical-cancer</key>,<lat>44.02292522</lat>,<long>-92.46673338</long>,<date>1-26-2024</date>,<author-s><fName></fName><lName>
+                Tribune Content
+                Agency</lName></author-s>,<title>Mayo Clinic Q&amp;A: What to know about cervical cancer</title><url>https://www.chicagotribune.com/2024/01/26/mayo-clinic-qa-what-to-know-about-cervical-cancer/
+        </url></article>
+    <article><id>84</id>,<location place="Illinois">Illinois</location>,<key type="abortion"
+        >abortion</key>,<lat>39.78298352</lat>,<long>-89.64200598</long>,<date>2-7-2024</date>,<author-s><fName>Angie Leventis</fName><lName>
+                
+                Lourgos</lName></author-s>,<title>Illinois abortions surged the year Roe fell, with nearly 17,000 patients traveling from other states — a 49% spike</title><url>https://www.chicagotribune.com/2024/01/10/illinois-abortions-surged-the-year-roe-fell-with-nearly-17000-patients-traveling-from-other-states-a-49-spike/
+        </url></article>
+    <article><id>85</id>,<location place="Northwestern">Northwestern</location>,<key
+            type="breast-cancer"
+            >breast-cancer</key>,<lat>42.10316017</lat>,<long>-87.62307672</long>,<date>12-23-2023</date>,<author-s><fName>Alysa</fName><lName>
+                Guffey</lName></author-s>,<title>AI model developed by Northwestern researchers could suggest better treatment plans for breast cancer patients</title><url>https://www.chicagotribune.com/2023/12/23/ai-model-developed-by-northwestern-researchers-could-suggest-better-treatment-plans-for-breast-cancer-patients/
+        </url></article>
+    <article><id>86</id>,<location place="Chicago">Chicago</location>,<key type="maternal-death"
+            >maternal-death</key>,<lat>41.92216074</lat>,<long>-87.67867067</long>,<date>12-22-2023</date>,<author-s><fName>Darcel</fName><lName>
+                Rockett</lName></author-s>,<title>New campaign aims to turn the tide on maternal mortality in Chicago’s Black community</title><url>https://www.chicagotribune.com/2023/12/22/new-campaign-aims-to-turn-the-tide-on-maternal-mortality-in-chicagos-black-community/
+        </url></article>
+    <article><id>87</id>,<location place="Wisconsin">Wisconsin</location>,<key type="abortion"
+            >abortion</key>,<lat>43.1307922</lat>,<long>-89.41838717</long>,<date>12-20-2023</date>,<author-s><fName></fName><lName> Associated
+                Press</lName></author-s>,<title>Wisconsin district attorney appeals ruling that cleared way for abortions to resume in state</title><url>https://www.chicagotribune.com/2023/12/20/wisconsin-district-attorney-appeals-ruling-that-cleared-way-for-abortions-to-resume-in-state/
+        </url></article>
+    <article><id>88</id>,<location place="Romeoville">Romeoville</location>,<key
+            type="breast-cancer"
+            >breast-cancer</key>,<lat>41.64968113</lat>,<long>-88.09080591</long>,<date>11-6-2023</date>,<author-s><fName>Janice</fName><lName>
+                Neumann</lName></author-s>,<title>Teachers at same Romeoville school become ‘breasties’ over shared cancer fight</title><url>https://www.chicagotribune.com/2023/11/06/teachers-at-same-romeoville-school-become-breasties-over-shared-cancer-fight/</url></article>
+</database>

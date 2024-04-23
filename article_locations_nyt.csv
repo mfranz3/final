@@ -1,0 +1,32 @@
+id,place,key,lat,long,date,author,source
+1,Arizona,abortion,33.44656629,-112.0589464,2024,Pam Belluck,https://www.nytimes.com/2024/04/10/health/arizona-abortion-ban-history.html
+2,DC,pelvic-exam,38.90884821,-77.03566511,2024,Emma Goldberg,https://www.nytimes.com/2024/04/01/health/pelvic-exam-consent-unconcious.html
+3,DC,abortion-pill,38.90884821,-77.03566511,3-26-2024,Pam Belluck,https://www.nytimes.com/2024/03/26/us/politics/abortion-pill-supreme-court-takeaways.html
+4,DC,abortion-pill,38.90884821,-77.03566511,3-26-2024,"Abbie VanSickle, Pam Belluck",https://www.nytimes.com/2024/03/26/us/politics/abortion-pill-lawsuits-doctors.html
+5,DC,abortion-pill,38.90884821,-77.03566511,3-25-2024,Pam Belluck,https://www.nytimes.com/2024/03/25/health/abortion-pills.html
+6,Canada,pregnancy,,,3-14-2024,Roni Caryn Rabin,https://www.nytimes.com/2024/03/14/health/teen-pregnancy-early-death.html
+7,Alabama,ivf,32.37411131,-86.29965677,3-7-2024,Roni Caryn Rabin,https://www.nytimes.com/2024/03/07/health/ivf-alabama-families.html
+8,Alabama,ivf,32.37411131,-86.29965677,3-6-2024,Jan Hoffman,https://www.nytimes.com/2024/03/06/health/ivf-law-alabama.html
+9,DC,birth-control,38.90884821,-77.03566511,3-4-2024,Pam Belluck,https://www.nytimes.com/2024/03/04/health/opill-birth-control-nonprescription.html
+10,Alabama,ivf,32.37411131,-86.29965677,3-3-2024,Emily Bazelon,https://www.nytimes.com/2024/03/03/magazine/fetal-personhood-alabama-ivf.html
+11,DC,abortion-pill,38.90884821,-77.03566511,3-1-2024,Pam Belluck,https://www.nytimes.com/2024/03/01/health/abortion-pills-cvs-walgreens.html
+12,DC,abortion,38.90884821,-77.03566511,2-28-2024,"Claire Cain Miller, Margot Sanger-Katz",https://www.nytimes.com/2024/02/28/upshot/abortion-pills-prescribed-online.html
+13,DC,sexism,38.90884821,-77.03566511,2-26-2024,Danielle Friedman,https://www.nytimes.com/2024/02/26/well/live/women-health-care-elizabeth-comen.html
+14,Alabama,ivf,32.37411131,-86.29965677,2-23-2024,Sarah Kliff,https://www.nytimes.com/2024/02/23/health/embryo-shipping-alabama-ivf.html
+15,Alabama,"abortion, ivf",32.37411131,-86.29965677,2-22-2024,"Azeen Ghorayshi, Sarah Kliff",https://www.nytimes.com/2024/02/22/health/fertility-clinics-embryos-alabama.html
+16,"Massachusetts, Washington, Colorado, Vermont, New York and California","abortion, abortion-pill",38.90884821,-77.03566511,2-22-2024,Pam Belluck,https://www.nytimes.com/2024/02/22/health/abortion-shield-laws-telemedicine.html
+17,Alabama,ivf,32.37411131,-86.29965677,2-21-2024,Jan Hoffman,https://www.nytimes.com/2024/02/21/health/ivf-frozen-embryos.html
+18,Alabama,ivf,32.37411131,-86.29965677,2-20-2024,"Roni Caryn Rabin, Azeen Ghorayshi",https://www.nytimes.com/2024/02/20/health/ivf-alabama-abortion.html
+19,Virginia,ivf,37.54072411,-77.42665684,2-15-2024,"Sarah Kliff, Azeen Ghorayshi",https://www.nytimes.com/2024/02/15/health/cooper-surgical-ivf-embryos-lawsuits.html
+20,UC San Francisco,abortion-pill,37.78664657,-122.4375039,2-15-2024,Pam Belluck,https://www.nytimes.com/2024/02/15/health/abortion-pills-mail-safety.html
+21,DC,pregnancy,38.90884821,-77.03566511,2-14-2024,Apoorva Mandavilli,https://www.nytimes.com/2024/02/14/health/rsv-shots-pregnant-women-infants.html
+22,DC,abortion-pill,38.90884821,-77.03566511,2-9-2024,Pam Belluck,https://www.nytimes.com/2024/02/09/health/abortion-pills-study-retraction.html
+23,Stanford,women,37.4281925,-122.1688628,2-1-2024,Carl Zimmer,https://www.nytimes.com/2024/02/01/health/women-autoimmune-disease-x-chromosome.html
+24,Cornell,women,42.45358773,-76.47291261,1-20-2024,Paula Span,https://www.nytimes.com/2024/01/20/health/heart-bypass-women.html
+25,DC,abortion,38.90884821,-77.03566511,1-18-2024,Pam Belluck,https://www.nytimes.com/2024/01/18/health/emtala-abortion-supreme-court.html
+26,DC,women,38.90884821,-77.03566511,1-12-2024,Rory Smith,https://www.nytimes.com/2024/01/12/world/europe/mental-health-womens-soccer.html
+27,DC,abortion-pill,38.90884821,-77.03566511,1-2-2024,Pam Belluck,https://www.nytimes.com/2024/01/02/health/abortion-pills-advanced-provision.html
+28,DC,pregnancy,38.90884821,-77.03566511,12-29-2023,Roni Caryn Rabin,https://www.nytimes.com/interactive/2023/12/29/health/bias-pregnant-black-women.html
+29,DC,abortion-pill,38.90884821,-77.03566511,12-13-2023,Abbie VanSickle,https://www.nytimes.com/2023/12/13/us/supreme-court-abortion-pill.html
+30,DC,pregnancy,38.90884821,-77.03566511,12-12-2023,Roni Caryn Rabin,https://www.nytimes.com/2023/12/12/health/pregnant-black-women-bias.html
+31,DC,abortion,38.90884821,-77.03566511,11-22-2023,"Margot Sanger-Katz, Claire Cain Miller",https://www.nytimes.com/2023/11/22/upshot/abortion-births-bans-states.html
