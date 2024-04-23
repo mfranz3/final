@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Final Project</title>
+        <link rel="stylesheet" type="text/css" href="gsws-final-styling.css" />
+    </head>
+    <body>
+        <h1>Tracking Women's Health in the News</h1>
+        <div class="nav-bar">
+            <ul>
+                <li><a class="navbar" href="index.xhtml">Home</a></li>
+                <li><a class="navbar" href="about.xhtml">Methodology</a></li>
+                <li><a class="navbar" href="maps-page.xhtml">Visualization</a></li>
+                <li><a class="navbar" href="sources.xhtml">Articles</a></li>
+            </ul>
+        </div>
+   
+        <section>
+            <h3>Data Collection-General Methodology</h3>
+            <ul>
+                <li>Reviewed the health section (exact one reviewed specified under each below) of each news site</li>
+                <li>Took note of anything that pertains to women's health within the United States (US)</li>
+                <li>Looked for a "key" word in the title, including "women," "pregnancy," "abortion," "abortion-pill," "ivf," etc. </li>
+                <li>An id, place, key[word], lat, long, date, author, and source were recorded for each item</li>
+                <li>For place:
+                    <ul><li>If it referenced a specific location, I used that.</li>
+                        <li>If it spoke about a general health topic, but referenced the location of one main study, I used that. </li>
+                        <li>If the article did not specify a specific place, I used "DC" as the location, as it is the US capital. </li>
+                        <li>If the "place" is a state, the coordinates were inputted as the state's capital city. </li>
+                        <li>If the location (ie, the NIH) has multiple locations, the coordinates of the headquarters were used. </li></ul>
+                </li>
+                   
+            </ul>
+            
+            <h4>1. New York Times Collection</h4>
+            <ul>
+                <li>Reviewed the title of all articles under the "health" section, back to November 1, 2023 (~6 months)</li>
+                
+            </ul>
+            
+            <h4>2. Washington Post Collection</h4>
+            <ul>
+                <li>Issue: paywell. I have a subscription to the NYT, but not the other news sites used. To get around this, I restricted
+                    my sources to the ones that I have access to through the University of Pittsburgh. </li>
+                <li>Searched through "health and well being" section on the Washington Post's site, and used those titles to search through
+                    the access site through the University of Pittsburgh. </li>
+                
+            </ul>
+            <h4>3. Chicago Tribune Collection</h4>
+            <ul>
+                <li>Same issue with the paywell. However, these articles are available to University of Pittsburgh Students via PittCat as well. </li>
+                <li>Searched through "News > Health" Articles</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Mapping and Visualization Methodology</h3>
+            <ul>
+                <li>I mapped the data using ArcGIS Online software, importing the data from .csv files. 
+                    <ul>
+                        <li>The CSV files contained the following: 
+                            <ul>
+                                <li>id: identification number.</li>
+                                <li>place: location of where the research is happening <em>or</em> where the reporting is referencing. </li>
+                                <li>lat: latitude.</li>
+                                <li>long: longitude.</li>
+                                <li>key: key word(s) from the title. </li>
+                                <li>author: author of the article.</li>
+                                <li>title: title of the article.</li>
+                                <li>url: url of the article.</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>The maps displayed on the website are downloads of the maps created using ArcGIS online. </li>
+                <li>Next, I transformed all of the CSV files into XML files, using Regex to markup items so that each item from the CSV file was its own element.
+                    <ul>
+                        <li>Example to mark up &lt;keys&gt;: 
+                            <ul> <li>find: ([<em>key</em>]),</li> 
+                                <li>replace:&lt;key type="\1"&gt;\1&lt;/key&gt;,</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Using XSLT, I created a transformation to make a Chicago Style source list/bibliography for each XML page (ie, for each data base).</li>
+                    
+            </ul>
+        </section>
+
+        <section>
+            <h3>Issues With Collection/Methodology</h3>
+            <ul>
+                <li>The collection of data (ie, articles) was done by hand, so it is subject to human error.</li>
+                <li>Additionally, place was collected by hand, so it may also be subject to human error.</li>
+                <li>However, the general goal of this project is to get a sense of number of locations/reports done on women's health, and to allow
+                users to find those studies easily.</li>
+                <li>Although the maps display the number of articles, I did not look to compare the number of articles published, so I did not control for number of 
+                    total number of articles published in general by that news outlets. Neither did I compare to number of articles published specifically regarding men's health.</li>
+            </ul>
+        </section>
+    </body>
+</html>
